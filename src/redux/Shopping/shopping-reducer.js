@@ -4,30 +4,30 @@ const INITIAL_STATE = {
   products: [
     {
       id: 1,
-      title: "This is the COOLEST Cube Ever",
+      title: "Xiaomi Mi 11",
       description:
-        "This cube will keep you busy the entire day and it is very fun to play with",
+        "the new xiaomi flagship, great camera with rear mounted display, improved power and efficiency",
       price: 15.0,
       image:
-        "https://images.unsplash.com/photo-1591991731833-b4807cf7ef94?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+        "https://images.unsplash.com/photo-1621330396173-e41b1cafd17f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
     },
     {
       id: 2,
-      title: "Large Coffee Cup",
+      title: "iphone 11 white",
       description:
-        "Get a big cup of coffee every morning before the day starts",
+        "Innovation that creates a history, the new iphone 11. great camera with powerful chipset and long lasting battery",
       price: 20.0,
       image:
-        "https://images.unsplash.com/photo-1572119865084-43c285814d63?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
+        "https://images.unsplash.com/photo-1573920011462-eb3003086611?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
     },
     {
       id: 3,
-      title: "Books That CHANGED My Life",
+      title: "Anker soundcore liberty",
       description:
-        "These books will keep you busy all throughout the entire lockdown and give you some great advise from famous people",
+        "Best budget tws with active noice cancellation feature, your perfect travel partner",
       price: 150.0,
       image:
-        "https://images.unsplash.com/photo-1512820790803-83ca734da794?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1374&q=80",
+        "https://images.unsplash.com/photo-1613398774227-94abdde8aef8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
     },
   ],
   cart: [],
